@@ -1,1 +1,1 @@
-This readme is created for the git directory
+This readme is created for the git directory.
