@@ -1,2 +1,6 @@
 #!/bin/bash
-echo"School is open and intresting!"
+<<<<<<< HEAD
+echo"School is open and intresting!!!"
+=======
+echo"School is open and exciting!"
+>>>>>>> update_script
